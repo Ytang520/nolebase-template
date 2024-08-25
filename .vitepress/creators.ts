@@ -16,26 +16,27 @@ export interface Creator {
   emailAliases?: string[]
 }
 
-// const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
+const getAvatarUrl = (name: string) => `https://github.com/Ytang520/Paper-notes/blob/main/Yuki.png`
+// https://github.com/Ytang520/Paper-notes/blob/main/Yuki.png
 
 export const creators: Creator[] = [
   {
     name: 'Frank',
-    avatar: 'Yuki.png',
+    avatar: '',
     username: 'Frank',
     title: '普通人',
-    desc: '喜欢人类微妙的情感，喜欢知识的脉络，目前经历着疼痛，无法呼吸',
+    desc: '正在学习人类的复杂情感，思考知识的脉络，试图帮助别人张开生命，努力明白生活的意义 \n 而身旁一片漆黑，伸出手，什么都抓不住',
     links: [
-      // {type: 'github', icon: 'github', link: 'https://github.com/Ytang520' },
+      {type: 'github', icon: 'github', link: 'https://github.com/Ytang520' },
     ],
     nameAliases: ['Frank'],
-    emailAliases: ['1253522515@qq.com'],
+    emailAliases: ['htang2023126578@gmail.com'],
   },
 ]
-// .map<Creator>((c) => {
-//   c.avatar = c.avatar || getAvatarUrl(c.username)
-//   return c as Creator
-// })
+.map<Creator>((c) => {
+  c.avatar = c.avatar || getAvatarUrl(c.username)
+  return c as Creator
+})
 
 export const creatorNames = creators.map(c => c.name)
 export const creatorUsernames = creators.map(c => c.username || '')
