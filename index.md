@@ -2,7 +2,7 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
+title: Notebook
 titleTemplate: 记录回忆，知识和畅想的地方
 
 hero:
