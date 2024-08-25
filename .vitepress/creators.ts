@@ -21,7 +21,7 @@ export interface Creator {
 export const creators: Creator[] = [
   {
     name: 'Frank',
-    avatar: 'Yuki_jpg.jpg',
+    avatar: 'Yuki.png',
     username: 'Frank',
     title: '普通人',
     desc: '喜欢人类微妙的情感，喜欢知识的脉络，目前经历着疼痛，无法呼吸',
