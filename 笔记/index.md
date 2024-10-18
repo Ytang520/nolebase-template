@@ -23,7 +23,7 @@ Life is like a flower. I strive to open the flower of my life and help others op
 
 And what happens after it blooms? I guess we’ll find out once it reaches that point—I’m not sure if I’ll ever fully see it open in my lifetime.
 
-
+![Yuki](../.vitepress/Yuki.png)
 
 <!-- 写在最后：
 “我不理解我为什么要活下去。” 奶茶店里，我面前的男孩这么和我说着。他戴着鸭舌帽，穿着黑色T恤，只是一个普通的大学生。
