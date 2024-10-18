@@ -24,8 +24,8 @@ export const creators: Creator[] = [
     name: 'Frank',
     avatar: '',
     username: 'Frank',
-    title: '普通人',
-    desc: '正在学习人类的复杂情感，思考知识的脉络，试图张开生命和帮助别人张开生命。很遗憾，基本都失败了...',
+    title: 'Normal People',
+    desc: 'Try to explore the complexities of human emotions, understand the knowledge structure, and open up my life and help others. Sadly, most of them failed…',
     links: [
       {type: 'github', icon: 'github', link: 'https://github.com/Ytang520' },
     ],
