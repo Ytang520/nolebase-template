@@ -4,8 +4,29 @@
 > [!WARNING] Kilimanjaro
 > Kilimanjaro is the highest mountain in Africa, and its western summit is called the “House of God.” Near this summit, there’s the frozen, dried-up carcass of a leopard. No one has explained what it was seeking at that altitude.
 
+The notebook is split into three parts:
+- Research Notes:
+Currently, my work primarily focuses on AI, especially LLMs. This includes my own ideas, observations, and reflections. Even though I’m still figuring things out and not sure how far I’ll get, I hope what I’ve learned can help others starting on this journey, whether it’s by sharing lessons or just offering some comfort.
+- Mathematical Notes:
+I've compiled various notes on learning mathematics, which include connections between different mathematical concepts and thoughts on effective learning methods. Although I’m not formally trained in math and have made some mistakes along the way, but I hope my experiences can help others steer clear of some of those mistakes and maybe give them a bit of comfort or inspiration too.
+- Thoughts:
+I've put together a collection of assorted notes and reflections, which include records of learning and reading driven by my interests, as well as thoughts and reflections on various experiences. The content is somewhat chaotic and unstructured, but it generally relates to understanding the complexities of human emotions or the development of knowledge.
+
+
+
+
 ---
-写在最后：
+Living is like climbing a snowy mountain. When you look ahead, all you see is endless white with no end in sight. When you look back, the snow covers your tracks, leaving nothing behind. If you stay put, you feel your feet growing cold. Yet, when you look down, the small footprints in the snow somehow give you a bit of confidence.
+
+I’ve often asked myself, why live? What’s the purpose of living?
+
+Life is like a flower. I strive to open the flower of my life and help others open theirs. That’s the answer I found after searching my soul.
+
+And after it blooms? We’ll see once it happens—I don’t know if I’ll ever fully open it in my lifetime.
+
+
+---
+<!-- 写在最后：
 
 
 “我不理解我为什么要活下去。” 奶茶店里，我面前的男孩这么和我说着。他戴着鸭舌帽，穿着黑色T恤，只是一个普通的大学生。
@@ -48,68 +69,33 @@
 
 “所以你放弃去思考它们了？”
 
-“我没有放弃，我只是还在寻找的路上。”
-
-
-
-人活着时就像在爬雪山，回头看时，发现大雪覆面，自己什么没有留下；向前看时，发现一片纯白，看不见尽头；呆在原地，发现双脚渐渐冰冷；可偏偏往脚下看时，脚窝大小的雪坑又会让自己有些信心。
-
-我曾经想要做出非常特别的，能留名的东西，可我还是得承认，我只是一个普通人。而即便那些伟人名人，
-
-
-
-
-相对应的，我也不理解人为什么一定要死去。
-
-
-
-
-如果追求精神上的
-
-
-“你看那些伟人，名人，过几十年，几百年，又有谁记得他们？” 我和我母亲吐露着自己的无能时，我的母亲这样回复着。
-
-这句话给我很深的触动，
-
-母亲的本意是想让我专心过自己的生活，不要和别人比较。我很感激她，只是我
-
-
-
-
-认清生活真相后还有活下去的勇气，这不觉得是虚伪吗？
-
-活着只是为了活着，这是一件很折磨的事情。
+“我没有放弃，我只是还在寻找的路上。” -->
 
 
 
 
 
-攀登雪山是件很折磨的事，除去身体的劳累和精神的疲惫外，
 
-攀爬只是为了攀爬，不敢停下来，停下来只有死亡。
-
-爬雪山和生命有的一拼。
-
-
-
-那是名为生命意义的雪山。我在攀登它，因为我正经历着生命的虚无。
-
-这份虚无来源于两方面：
-
-- 死亡：肉身的死亡只是开始，被遗忘是。一旦想到，数百年后自己就和从没来过这个世界一样，我的一切经历，想法和体验，在它面前都不再重要。
-- 无常：
-
-
-认识到这份虚无后蒙住自己的双眼，关闭自己的耳朵，封闭自己的嘴巴，只是一遍遍提醒自己去务实，去怀抱勇气和尊严的热爱生活，是一种自欺。告诉自己
-
-我信任的答案是张开生命
-
-
-
-我时时刻刻留下脚印，又时时刻刻失去。我不知道未来如何，我只是依照纯然的直觉寻找生命的意义。
-
-
----
+<!-- 我曾经想要做出非常特别的，能留名的东西，可我还是得承认，我只是一个普通人。 -->
+<!-- 相对应的，我也不理解人为什么一定要死去。 -->
+<!-- 如果追求精神上的 -->
+<!-- “你看那些伟人，名人，过几十年，几百年，又有谁记得他们？” 我和我母亲吐露着自己的无能时，我的母亲这样回复着。 -->
+<!-- 这句话给我很深的触动， -->
+<!-- 母亲的本意是想让我专心过自己的生活，不要和别人比较。我很感激她，只是我 -->
+<!-- 认清生活真相后还有活下去的勇气，这不觉得是虚伪吗？ -->
+<!-- 活着只是为了活着，这是一件很折磨的事情。 -->
+<!-- 攀登雪山是件很折磨的事，除去身体的劳累和精神的疲惫外， -->
+<!-- 攀爬只是为了攀爬，不敢停下来，停下来只有死亡。 -->
+<!-- 爬雪山和生命有的一拼。 -->
+<!-- 那是名为生命意义的雪山。我在攀登它，因为我正经历着生命的虚无。 -->
+<!-- 这份虚无来源于两方面： -->
+<!-- - 死亡：肉身的死亡只是开始，被遗忘是。一旦想到，数百年后自己就和从没来过这个世界一样，我的一切经历，想法和体验，在它面前都不再重要。 -->
+<!-- - 无常： -->
+<!-- 认识到这份虚无后蒙住自己的双眼，关闭自己的耳朵，封闭自己的嘴巴，一遍遍提醒自己去怀抱勇气和尊严的热爱生活，是一种自欺。 -->
+<!-- 告诉自己 -->
+<!-- 我信任的答案是张开生命 -->
+<!-- 我时时刻刻留下脚印，又时时刻刻失去。我不知道未来如何，我只是依照纯然的直觉寻找生命的意义。 -->
+<!-- ---
 
 
 废话不多说，我们开始下载的步骤吧。
@@ -345,4 +331,4 @@ Notebook 知识库使用 VitePress 静态生成器来驱动和生成静态页面
 >
 > 让我们把精力放在写作上吧！❤️
 
-请参照 VitePress 官方文档的[部署 VitePress 站点](https://vitepress.dev/zh/guide/deploy)页面文档所介绍的内容，通过主流的静态网站托管服务来部署自己的 Notebook 知识库。
+请参照 VitePress 官方文档的[部署 VitePress 站点](https://vitepress.dev/zh/guide/deploy)页面文档所介绍的内容，通过主流的静态网站托管服务来部署自己的 Notebook 知识库。 -->
