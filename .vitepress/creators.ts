@@ -16,7 +16,7 @@ export interface Creator {
   emailAliases?: string[]
 }
 
-const getAvatarUrl = (name: string) => `https://raw.githubusercontent.com/Ytang520/Paper-notes/blob/main/Yuki.png`
+const getAvatarUrl = (name: string) => `https://github.com/Ytang520/Paper-notes/blob/main/Yuki.png`
 // 
 
 export const creators: Creator[] = [

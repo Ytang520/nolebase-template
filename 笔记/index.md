@@ -1,17 +1,8 @@
 # 📒 笔记
 
-我不理解人为什么一定要活下去
-	——因为这是我唯一存在的短暂的现实
-
-
-
-
-> [!乞力马扎罗的雪]
-> 乞力马扎罗是非洲最高的一座山，其西高峰被称为上帝的殿堂。在西高峰的近旁，有一具早已风干冻僵的豹子尸体，它到这么高的地方来寻找什么，没有人作过解释。
->
-
-
-
+<!-- > [!乞力马扎罗的雪] -->
+> [!WARNING] Kilimanjaro
+> Kilimanjaro is the highest mountain in Africa, and its western summit is called the “House of God.” Near this summit, there’s the frozen, dried-up carcass of a leopard. No one has explained what it was seeking at that altitude.
 
 ---
 写在最后：
