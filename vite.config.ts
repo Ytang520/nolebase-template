@@ -21,9 +21,11 @@ export default defineConfig(async () => {
     },
     plugins: [
       Inspect(),
-      GitChangelog({
-        repoURL: () => githubRepoLink,
-      }),
+      GitChangelog(
+      //   {
+      //   repoURL: () => githubRepoLink,
+      // }
+    ),
       GitChangelogMarkdownSection(
       //   {
       //   getChangelogTitle: (): string => {
