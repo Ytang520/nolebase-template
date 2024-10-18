@@ -21,12 +21,12 @@ export default defineConfig(async () => {
     },
     plugins: [
       Inspect(),
-      GitChangelog(
+      // GitChangelog(
       //   {
       //   repoURL: () => githubRepoLink,
       // }
-    ),
-      GitChangelogMarkdownSection(
+    // ),
+      // GitChangelogMarkdownSection(
       //   {
       //   getChangelogTitle: (): string => {
       //     return '文件历史'
@@ -39,7 +39,7 @@ export default defineConfig(async () => {
       //     'index.md',
       //   ],
       // }
-    ),
+    // ),
       PageProperties(),
       PagePropertiesMarkdownSection({
         excludes: [
