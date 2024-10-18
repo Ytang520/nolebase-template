@@ -1,38 +1,33 @@
 # 📒 笔记
 
 <!-- > [!乞力马扎罗的雪] -->
-> [!WARNING] Kilimanjaro
-> Kilimanjaro is the highest mountain in Africa, and its western summit is called the “House of God.” Near this summit, there’s the frozen, dried-up carcass of a leopard. No one has explained what it was seeking at that altitude.
+> [!WARNING] **Kilimanjaro**
+> Kilimanjaro is the highest mountain in Africa, and its western summit is called the "House of God." Near this summit, there's the frozen, dried-up carcass of a leopard. No one has explained what it was seeking at that altitude.
 
-The notebook is split into three parts:
+## The notebook is split into three parts:
 - Research Notes:
-Currently, my work primarily focuses on AI, especially LLMs. This includes my own ideas, observations, and reflections. Even though I’m still figuring things out and not sure how far I’ll get, I hope what I’ve learned can help others starting on this journey, whether it’s by sharing lessons or just offering some comfort.
+Currently, my work primarily focuses on AI, especially LLMs. This includes my own ideas, observations, and reflections. Even though I'm still figuring things out and not sure how far I'll get, I hope what I've learned can help others starting on this journey, whether it's by sharing lessons or just offering some comfort.
 - Mathematical Notes:
-I've compiled various notes on learning mathematics, which include connections between different mathematical concepts and thoughts on effective learning methods. Although I’m not formally trained in math and have made some mistakes along the way, but I hope my experiences can help others steer clear of some of those mistakes and maybe give them a bit of comfort or inspiration too.
+I've compiled various notes on learning mathematics, which include connections between different mathematical concepts and thoughts on effective learning methods. Although I'm not formally trained in math and have made some mistakes along the way, but I hope my experiences can help others steer clear of some of those mistakes and maybe give them a bit of comfort or inspiration too.
 - Thoughts:
 I've put together a collection of assorted notes and reflections, which include records of learning and reading driven by my interests, as well as thoughts and reflections on various experiences. The content is somewhat chaotic and unstructured, but it generally relates to understanding the complexities of human emotions or the development of knowledge.
 
 
-
-
 ---
+
 Living is like climbing a snowy mountain. When you look ahead, all you see is endless white with no end in sight. When you look back, the snow covers your tracks, leaving nothing behind. If you stay put, you feel your feet growing cold. Yet, when you look down, the small footprints in the snow somehow give you a bit of confidence.
 
-I’ve often asked myself, why live? What’s the purpose of living?
+I've often asked myself, why live? What's the purpose of living?
 
-Life is like a flower. I strive to open the flower of my life and help others open theirs. That’s the answer I found after searching my soul.
+Life is like a flower. I strive to open the flower of my life and help others open theirs. That's the answer I found after asking my soul.
 
-And after it blooms? We’ll see once it happens—I don’t know if I’ll ever fully open it in my lifetime.
+And what happens after it blooms? I guess we’ll find out once it reaches that point—I’m not sure if I’ll ever fully see it open in my lifetime.
 
 
----
+
 <!-- 写在最后：
-
-
 “我不理解我为什么要活下去。” 奶茶店里，我面前的男孩这么和我说着。他戴着鸭舌帽，穿着黑色T恤，只是一个普通的大学生。
-
 “怎么说？” 我嘬了口奶茶，“是遇到了什么挫折吗？”
-
 “没有，只是总有一种奇怪的感觉。就像是走夜路，下一脚不知道会不会踩实；而往旁边一摸，空落落的什么都没有。”
 
 “我明白了，你是在害怕。这不是一件坏事，害怕会驱动你前进。”

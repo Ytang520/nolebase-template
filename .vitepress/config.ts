@@ -137,9 +137,9 @@ export default defineConfig({
       { icon: 'discord', link: discordLink },
     ],
     footer: {
-      message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
+      message: 'Written by Normal Person',
       copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/"> 普通人的笔记',
+        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/"> Notes',
     },
     search: {
       provider: 'local',
@@ -209,7 +209,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Homepage', link: '/' },
-      { text: 'Note', link: '/笔记/' },
+      { text: 'book', link: '/笔记/' },
       // { text: '最近更新', link: '/toc' },
     ],
     sidebar,
