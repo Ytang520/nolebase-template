@@ -151,8 +151,8 @@ const ExtendedTheme: Theme = {
     
     // Obtain configuration from: https://giscus.app/
     giscusTalk({
-      repo: 'Jackiexiao/nolebase-template',
-      repoId: 'R_kgDOL5WHsg',
+      repo: 'Ytang520/nolebase-template',
+      repoId: 'R_kgDOMksjug',
       category: 'Announcements', // default: `General`
       categoryId: 'DIC_kwDOL5WHss4CfTYs',
       mapping: 'url', // default: `pathname`
@@ -169,7 +169,8 @@ const ExtendedTheme: Theme = {
       lightTheme: 'light', // default: `light`
       darkTheme: 'transparent_dark', // default: `transparent_dark`
       // ...
-    }, {
+    }, 
+    {
       frontmatter, route
     },
       // Whether to activate the comment area on all pages.
