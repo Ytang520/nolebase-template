@@ -5,6 +5,8 @@ tags:
 comment: false
 ---
 
+## Combine LLMs with Traditional Models
+——especially in the domain of fair tabular prediction
 
 - LLM 和 传统模型结合上：（尤其在 fair tabular prediction 领域）
   - 背景：
