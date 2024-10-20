@@ -6,9 +6,7 @@ comment: false
 
 >[!warning] To Start...
 
-For me, a particular research direction isn't solely about passion; it's more like a job—something I don't need to deeply love, but simply need to complete. But what drives me here? The interest of research lies in the research itself. The specific field or topic is secondary; what matters most is the research itself[^1].
-
-
+For me, a particular research direction isn't solely about passion; it's more like a job—something I don't need to deeply love, but simply need to complete. The interest of research lies in the research itself. The specific field or topic is secondary; what matters most is the research itself[^1].
 
 
 ---
