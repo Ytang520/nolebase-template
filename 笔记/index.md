@@ -12,18 +12,7 @@ I've compiled various notes on learning mathematics, which include connections b
 - Thoughts:
 I've put together a collection of assorted notes and reflections, which include records of learning and reading driven by my interests, as well as thoughts and reflections on various experiences. The content is somewhat chaotic and unstructured, but it generally relates to understanding the complexities of human emotions or the development of knowledge.
 
-
----
-
-Living is like climbing a snowy mountain. When you look ahead, all you see is endless white with no end in sight. When you look back, the snow covers your tracks, leaving nothing behind. If you stay put, you feel your feet growing cold. Yet, when you look down, the small footprints in the snow somehow give you a bit of confidence.
-
-I've often asked myself, why live? What's the purpose of living?
-
-Life is like a flower. I strive to open the flower of my life and help others open theirs. That's the answer I found after asking my soul.
-
-And what happens after it blooms? I guess we’ll find out once it reaches that point—I’m not sure if I’ll ever fully see it open in my lifetime.
-
-![Yuki](../.vitepress/Yuki.png)
+I hope to leave a few words here each day,
 
 <!-- 写在最后：
 “我不理解我为什么要活下去。” 奶茶店里，我面前的男孩这么和我说着。他戴着鸭舌帽，穿着黑色T恤，只是一个普通的大学生。
