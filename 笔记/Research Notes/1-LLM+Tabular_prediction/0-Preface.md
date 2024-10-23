@@ -1,3 +1,10 @@
+---
+tags:
+  - LLM
+  - Algorithmic fairness
+comment: false
+---
+
 ## Why do we need LLMs for tabular preediction
 
 - Motivation
