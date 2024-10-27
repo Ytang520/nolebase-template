@@ -46,6 +46,6 @@ The **bolded parts** indicate the features we wish to maintain or the issues tha
 
 
 ## Others
-- An unpolished [draft](https://github.com/Ytang520/nolebase-template/blob/main/public/analysis/LLM%2Bfair_tabular_prediction.pdf) with introduction and related works. I've already completed the codes with my own devices in my spare time before, and see some interesting observations.
+- An unpolished [draft](https://github.com/Ytang520/nolebase-template/blob/main/public/analysis/LLM%2Bfair_tabular_prediction.pdf) with introduction and related works. I've already completed the codes with my own devices in my spare time before, and see someinteresting observations. However, due to certain restrictions, I’m unable to upload them to GitHub. Feel free to email me for details if interested.
 
-Edited on 2024.10.21
+2nd Edited on 2024.10.28

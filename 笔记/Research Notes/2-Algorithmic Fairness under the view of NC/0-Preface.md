@@ -21,7 +21,11 @@ See the section ("Related Work")[https://github.com/Ytang520/nolebase-template/b
 
 4. Why do we need NC view for algorithmic fairness?
 (1) Why not others? 
-Previous works focus more on the trade-offs (accuracy v.s. fairness; different fairness notions...), while ignore the details of training. Here are hundreds of researches designing thousands of methods to debias, but we have no idea what the similarities and the differences are, for what distributions they are suitable, for what conditions they can be the best methods, etc.. A framwork to cover all those methods can help us decide better which is more suitable to use.
+Previous theoretical works focus more on the trade-offs (accuracy v.s. fairness; different fairness notions...), while ignore the details of training. Here are hundreds of researches designing thousands of methods to debias, but we have no idea what the similarities and the differences are.
 
 (2) Why NC?
-NC represents the teminal phase of training, and we may assume that the models gradually achieve that phase. A deeper look of the ter  
+NC represents the teminal phase of training, and we may assume that the models gradually achieve that phase. 
+
+5. **More Practical Issues**:
+(1) If the platform has no knowledge of sensitive attributes, can we effectively infer them without additional information through leverage the network training properties.
+(2) Should the features in intermediate layers be independent of sensitive groups, or completely dependent of those groups and using only the classifier to mitigate bias? A closer look from the training dynamics of the fairness-guaranteed in-processing methods.
