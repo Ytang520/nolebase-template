@@ -16,8 +16,8 @@ export interface Creator {
   emailAliases?: string[]
 }
 
-const getAvatarUrl = (name: string) => `./Yuki.png`
-// 
+const getAvatarUrl = (name: string) => `https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/10/Blue-Period-Yatora.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5`
+// const getAvatarUrl = (name: string) => `./Yuki.png`
 
 export const creators: Creator[] = [
   {
