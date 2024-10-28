@@ -9,3 +9,11 @@ Once this phase is over, I’ll take the time to seriously study computer-relate
 Sigh... I have to head to work now, or I’ll just get chewed out again tomorrow.
 
 Edited on 2024/10/22
+
+---
+
+OK, not that annoying... esp. when I foresake that repository and switch to a different one for replication. This new setup feels almost too straightforward.
+
+God bless to me, it's not (entirely) my fault. What a relief.
+
+Edited on 2024/10/28
