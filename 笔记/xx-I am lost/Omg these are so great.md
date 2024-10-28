@@ -7,9 +7,8 @@ Omg, he's so cute and hot!!! Who can refuse the Golden Retriever!!!
 
 <p align="center">
   <img src="../../public/incredible_comics_and_movies/Cute!!!.png" alt="Cute_1" width="45%" style="display:inline-block; margin-right: 10px;">
-  <img src="https://github.com/Ytang520/nolebase-template/blob/main/public/incredible_comics_and_movies/Cute++!!.png" alt="Cute_2" width="45%" style="display:inline-block;">
+  <img src="../../public/incredible_comics_and_movies/Cute++!!.png" alt="Cute_2" width="45%" style="display:inline-block;">
 </p>
-
 
 - Everything, everywhere all at once. (EEAAO)
 I was crying a lot from the beginning. The faults I've done, the pains I've swallowed and the sorrows I've brought are too heavy to carry. I have to keep them away to keep my heart safe, even it is not sound.
