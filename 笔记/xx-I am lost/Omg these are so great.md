@@ -4,7 +4,7 @@ Later I'll write some comments on them.
 
 - Kirishima Miyama (from Yakuza Fiancé: Raise wa Tanin ga Ii).
 Omg, he's so cute and hot!!! Who can refuse the Golden Retriever!!!
-![More Details]()
+
 <p align="center">
   <img src="https://github.com/Ytang520/nolebase-template/blob/main/public/incredible_comics_and_movies/Cute!!!.png" alt="Cute_1" width="45%" style="display:inline-block; margin-right: 10px;">
   <img src="[image2_url](https://github.com/Ytang520/nolebase-template/blob/main/public/incredible_comics_and_movies/Cute++!!.png)" alt="Cute_2" width="45%" style="display:inline-block;">
