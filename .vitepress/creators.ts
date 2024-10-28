@@ -24,7 +24,7 @@ export const creators: Creator[] = [
     name: 'Frank',
     avatar: '',
     username: 'Frank',
-    title: 'Normal People',
+    title: 'Normal Person',
     desc: 'Try to explore the complexities of human emotions, understand the knowledge structure, and open up my life and help others. Sadly, most of them failed…',
     links: [
       {type: 'github', icon: 'github', link: 'https://github.com/Ytang520' },
