@@ -44,7 +44,9 @@ comment: true
 
 ---
 [1] The code is adapted from [FFB](https://github.com/ahxt/fair_fairness_benchmark?tab=readme-ov-file).
+
 [2] Common fairness metrics: https://en.wikipedia.org/wiki/Fairness_(machine_learning)
+
 [3] Sample code: https://github.com/neuralcollapse/neuralcollapse
 
 -- Edited on 2024/10/28
