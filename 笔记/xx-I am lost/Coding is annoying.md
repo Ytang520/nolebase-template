@@ -12,7 +12,7 @@ Edited on 2024/10/22
 
 ---
 
-OK, not that annoying... esp. when I foresake that repository and switch to a different one for replication. This new setup feels almost too straightforward.
+OK, not that annoying... esp. when I gave up that repository and switched to a different one for replication. This new setup feels almost too straightforward.
 
 God bless to me, it's not (entirely) my fault. What a relief.
 
