@@ -19,3 +19,13 @@ And that's all there is to it.
 To fulfill these personal desires, I must excel at the job of "research." How far I can still go, I don't know—perhaps five years, one year, or maybe just the next two months. But when I lose my way, where will I turn?
 
 Yet before I reach that point, I think... perhaps I need to cry a lot.
+
+---
+
+I took the first wrong step, and I can't stop my falling.
+
+Well... maybe this is the end...
+
+It is really awful, but I have to take my responsibility to face it.
+
+--- Edited on 2024/10/31
