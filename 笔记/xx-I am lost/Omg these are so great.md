@@ -22,3 +22,6 @@ Please... don't expect too much from me. Just let me ... go...
 - **Agatha All Along**
 
 Oh.... ep.7. Lilia... bring her back, plz. 
+
+- **Sylus**
+Oh... Sylus is hot, and incredible...and hot. I love him so so so much!!!
